@@ -1,0 +1,3 @@
+desc=Repository to collect mixin layers for LTS releases
+section=-Yocto Metadata Layers - Other Layers
+hide=0
